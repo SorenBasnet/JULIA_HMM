@@ -1,0 +1,24 @@
+# Initial state probabilities.
+# States will be A1, A2, ... , An
+# Input for initial state probabilities
+# should be in a single line
+# --------------------------------
+0.60 0.40
+
+# Transition probability matrix
+# Matrix will be formatted as
+#     A1 A2 . . . An
+#  A1
+#  A2
+#   .
+#   .
+#   .
+#  An
+# --------------------------------
+0.70 0.30
+0.20 0.80
+
+# Emission probability matrix
+# --------------------------------
+0.90 0.10
+0.15 0.85
